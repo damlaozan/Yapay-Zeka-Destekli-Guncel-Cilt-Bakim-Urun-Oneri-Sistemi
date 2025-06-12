@@ -1,5 +1,5 @@
 # Yapay-Zeka-Destekli-Guncel-Cilt-Bakim-Urun-Oneri-Sistemi
-Cilt sorunlarını belirleyerek bireylere uygun kozmetik ürünler öneren bir yapay zeka tabanlı model ve buna entegre bir mobil uygulama geliştirilmektedir. Proje, TÜBİTAK 2209-A destek programı kapsamında destek almaya hak kazanmıştır.
+Cilt sorunlarını belirleyerek bireylere uygun cilt bakım ürünleri öneren bir yapay zeka tabanlı model ve buna entegre bir mobil uygulama geliştirilmektedir. Proje, TÜBİTAK 2209-A destek programı kapsamında destek almaya hak kazanmıştır.
 
 
 Bu çalışmada geliştirilen sistem, kullanıcıdan alınan yüz görüntüsü üzerinde derin öğrenme yöntemleri kullanarak cilt sorunlarını (akne, sivilce izi, leke, kırışıklık, koyu halka) tespit etmektedir. Analiz sonucunda, tespit edilen cilt problemine uygun ürünler sistem tarafından önerilmektedir. Önerilen ürünler, Trendyol platformundaki güncel ve yüksek puanlı ürünlerden otomatik olarak seçilmekte ve kullanıcıya sunulmaktadır. Sistem, yalnızca doğru analiz ve öneri yapmakla kalmayıp, aynı zamanda kullanıcı dostu bir mobil arayüz ile herkesin kolayca erişebileceği bir çözüm sunmaktadır.
